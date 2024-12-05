@@ -1,0 +1,6 @@
+com.test.gravardados.test.app-androidTest-0 C:\Projeto\Android\Gravar Dados\app\build\generated\res\resValues\androidTest\debug
+com.test.gravardados.test.app-mergeDebugAndroidTestResources-1 C:\Projeto\Android\Gravar Dados\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.test.gravardados.test.app-mergeDebugAndroidTestResources-2 C:\Projeto\Android\Gravar Dados\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.test.gravardados.test.app-debugAndroidTest-3 C:\Projeto\Android\Gravar Dados\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.test.gravardados.test.app-tracing-1.2.0-4 C:\Users\Nicolas\.gradle\caches\8.9\transforms\37561d9faae896a7efd6991dd3bcd3e3\transformed\tracing-1.2.0\res
+com.test.gravardados.test.app-core-1.6.1-5 C:\Users\Nicolas\.gradle\caches\8.9\transforms\6093ef8138c3446db0240df1c77fac60\transformed\core-1.6.1\res

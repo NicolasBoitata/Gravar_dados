@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\activity_tela_principal.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\activity_tela_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\item_food.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\item_food.xml"
+    },
+    {
+        "merged": "com.test.gravardados.app-mergeDebugResources-4:/layout/activity_form_login.xml",
+        "source": "com.test.gravardados.app-main-7:/layout/activity_form_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\merenda_toolbar.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\merenda_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\fragment_authors.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\fragment_authors.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\activity_form_login.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\activity_form_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\activity_database.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\activity_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\recycler_view_author.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\recycler_view_author.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\merenda_timetable_toolbar.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\merenda_timetable_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\activity_gestor_alimenticia.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\activity_gestor_alimenticia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\dialog_fragment_add_author.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\dialog_fragment_add_author.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\activity_text_watcher.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\activity_text_watcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\list_item.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\base_option.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\base_option.xml"
+    },
+    {
+        "merged": "com.test.gravardados.app-mergeDebugResources-4:/layout/activity_menu.xml",
+        "source": "com.test.gravardados.app-main-7:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\activity_test.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-mergeDebugResources-4:\\layout\\activity_dropdow.xml",
+        "source": "C:\\Users\\Nicolas\\.gradle\\daemon\\8.9\\com.test.gravardados.app-main-7:\\layout\\activity_dropdow.xml"
+    }
+]

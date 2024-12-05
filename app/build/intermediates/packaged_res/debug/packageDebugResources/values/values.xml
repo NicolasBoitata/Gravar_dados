@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="snack_items">
+        <item>Cedo</item>
+        <item>Manhã</item>
+        <item>Tarde</item>
+    </string-array>
+    <color name="Blue">#0000FF</color>
+    <color name="Green">#008000</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="Orange">#FFA500</color>
+    <color name="Red">#FF0000</color>
+    <color name="Violet">#EE82EE</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="banana">#FFE866</color>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="gray">#808080</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="pink_light">#FFB6C1</color>
+    <color name="pink_wild_strawberry">#ff33a0</color>
+    <color name="purple_500">#800080</color>
+    <color name="purple_700">#6b46c1</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add">ADICIONAR</string>
+    <string name="add_new_author">AUTOR</string>
+    <string name="app_name">Gravar Dados</string>
+    <string name="bt_logar">Logar</string>
+    <string name="caloria_text_data">Adicione Imagem</string>
+    <string name="categoria_text_data">Adicione Categoria</string>
+    <string name="edit_email">Email</string>
+    <string name="edit_password">Senha</string>
+    <string name="enter_authors_name">NAME</string>
+    <string name="firebase_database_url" translatable="false">https://projetodeestudo-909f6-default-rtdb.firebaseio.com</string>
+    <string name="first_text_data">Primeiro Dados de Texto</string>
+    <string name="gcm_defaultSenderId" translatable="false">1029250521626</string>
+    <string name="google_api_key" translatable="false">AIzaSyAPedPtDDowo1o1qJAf82tPOLy3lnSAM90</string>
+    <string name="google_app_id" translatable="false">1:1029250521626:android:45925e46dc427406868fa3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAPedPtDDowo1o1qJAf82tPOLy3lnSAM90</string>
+    <string name="google_storage_bucket" translatable="false">projetodeestudo-909f6.firebasestorage.app</string>
+    <string name="imagem_text_data">Adicione Imagem</string>
+    <string name="nome_text_data">Adicione Nome</string>
+    <string name="project_id" translatable="false">projetodeestudo-909f6</string>
+    <string name="second_text_data">Segundo Dados de Texto</string>
+    <string name="select">Horário</string>
+    <string name="text_afternoon">Tarde</string>
+    <string name="text_button_logout">Deslogar</string>
+    <string name="text_early">Cedo</string>
+    <string name="text_morning">Manhã</string>
+    <string name="text_morningsnack">Lanche da Manhã</string>
+    <string name="text_snack">Merenda</string>
+    <string name="text_view_send">Enviar</string>
+    <string name="title_login">Título</string>
+    <string name="valornutricional_text_data">Adicione Valor Nutricional</string>
+    <string name="view_cadastrar">Cadastrar</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Base.Theme.GravarDados" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="MyAutoCompleteTextStyle" parent="Widget.AppCompat.AutoCompleteTextView">
+        <item name="android:textSize">14sp</item>  
+    </style>
+    <style name="Theme.GravarDados" parent="Base.Theme.GravarDados"/>
+</resources>

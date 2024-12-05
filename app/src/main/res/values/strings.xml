@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Gravar Dados</string>
+    <string name="text_button_logout">Deslogar</string>
+    <string name="edit_email">Email</string>
+    <string name="edit_password">Senha</string>
+    <string name="bt_logar">Logar</string>
+    <string name="title_login">Título</string>
+
+    <string name="first_text_data">Primeiro Dados de Texto</string>
+    <string name="second_text_data">Segundo Dados de Texto</string>
+    <string name="text_view_send">Enviar</string>
+
+    <string name="imagem_text_data">Adicione Imagem</string>
+    <string name="nome_text_data">Adicione Nome</string>
+    <string name="categoria_text_data">Adicione Categoria</string>
+    <string name="caloria_text_data">Adicione Imagem</string>
+    <string name="valornutricional_text_data">Adicione Valor Nutricional</string>
+
+    <string name="add_new_author">AUTOR</string>
+    <string name="enter_authors_name">NAME</string>
+    <string name="add">ADICIONAR</string>
+    <string name="text_snack">Merenda</string>
+    <string name="select">Horário</string>
+    <string name="view_cadastrar">Cadastrar</string>
+    <string name="text_morningsnack">Lanche da Manhã</string>
+    <string name="text_early">Cedo</string>
+    <string name="text_morning">Manhã</string>
+    <string name="text_afternoon">Tarde</string>
+
+
+    <string-array name="snack_items">
+        <item>Cedo</item>
+        <item>Manhã</item>
+        <item>Tarde</item>
+    </string-array>
+
+
+</resources>

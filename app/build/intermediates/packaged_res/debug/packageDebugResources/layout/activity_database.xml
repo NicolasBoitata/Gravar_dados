@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".database">
+
+    <EditText
+        android:id="@+id/editimagem"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="25dp"
+        android:background="@color/gray"
+        android:ems="12"
+        android:hint="@string/imagem_text_data"
+        android:inputType="text"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        app:layout_constraintStart_toStartOf="@+id/loginToolbar"
+        app:layout_constraintTop_toBottomOf="@+id/emailFields" />
+
+    <EditText
+        android:id="@+id/editnome"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="25dp"
+        android:background="@color/gray"
+        android:ems="12"
+        android:hint="@string/nome_text_data"
+        android:inputType="text"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        app:layout_constraintStart_toStartOf="@+id/loginToolbar"
+        app:layout_constraintTop_toBottomOf="@+id/emailFields" />
+
+    <EditText
+        android:id="@+id/editcategoria"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="25dp"
+        android:background="@color/gray"
+        android:ems="12"
+        android:hint="@string/categoria_text_data"
+        android:inputType="text"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        app:layout_constraintStart_toStartOf="@+id/loginToolbar"
+        app:layout_constraintTop_toBottomOf="@+id/emailFields" />
+
+    <EditText
+        android:id="@+id/editcaloria"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="25dp"
+        android:background="@color/gray"
+        android:ems="12"
+        android:hint="@string/caloria_text_data"
+        android:inputType="text"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        app:layout_constraintStart_toStartOf="@+id/loginToolbar"
+        app:layout_constraintTop_toBottomOf="@+id/emailFields" />
+
+    <EditText
+        android:id="@+id/editvalornutricional"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="25dp"
+        android:background="@color/gray"
+        android:ems="12"
+        android:hint="@string/valornutricional_text_data"
+        android:inputType="text"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        app:layout_constraintStart_toStartOf="@+id/loginToolbar"
+        app:layout_constraintTop_toBottomOf="@+id/emailFields" />
+
+
+    <Button
+        android:layout_marginTop="30dp"
+        android:id="@+id/enviarmerenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="enviar" />
+
+</LinearLayout>

@@ -1,0 +1,70 @@
+com.test.gravardados.app-pngs-0 C:\Projeto\Android\Gravar Dados\app\build\generated\res\pngs\debug
+com.test.gravardados.app-res-1 C:\Projeto\Android\Gravar Dados\app\build\generated\res\processDebugGoogleServices
+com.test.gravardados.app-resValues-2 C:\Projeto\Android\Gravar Dados\app\build\generated\res\resValues\debug
+com.test.gravardados.app-packageDebugResources-3 C:\Projeto\Android\Gravar Dados\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.test.gravardados.app-packageDebugResources-4 C:\Projeto\Android\Gravar Dados\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.test.gravardados.app-debug-5 C:\Projeto\Android\Gravar Dados\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.test.gravardados.app-debug-6 C:\Projeto\Android\Gravar Dados\app\src\debug\res
+com.test.gravardados.app-main-7 C:\Projeto\Android\Gravar Dados\app\src\main\res
+com.test.gravardados.app-facebook-login-17.0.2-8 C:\Users\Nicolas\.gradle\caches\8.9\transforms\028c0c8f00550f275213582d7eb893f3\transformed\facebook-login-17.0.2\res
+com.test.gravardados.app-credentials-play-services-auth-1.2.0-rc01-9 C:\Users\Nicolas\.gradle\caches\8.9\transforms\03a5dd22c438425778c0634c79c301d2\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.test.gravardados.app-lifecycle-livedata-2.6.2-10 C:\Users\Nicolas\.gradle\caches\8.9\transforms\09a307d9ff76e9830f23bd3e62e5132e\transformed\lifecycle-livedata-2.6.2\res
+com.test.gravardados.app-core-ktx-1.15.0-11 C:\Users\Nicolas\.gradle\caches\8.9\transforms\0fbc02193f0b946e38b6253ee7001eec\transformed\core-ktx-1.15.0\res
+com.test.gravardados.app-window-1.0.0-12 C:\Users\Nicolas\.gradle\caches\8.9\transforms\1312ea2165542c99afe50bed29558a41\transformed\window-1.0.0\res
+com.test.gravardados.app-play-services-basement-18.4.0-13 C:\Users\Nicolas\.gradle\caches\8.9\transforms\19fa70e92af1ca6d297a4dce3d05d1a0\transformed\play-services-basement-18.4.0\res
+com.test.gravardados.app-transition-1.5.0-14 C:\Users\Nicolas\.gradle\caches\8.9\transforms\254ef8d0dac91d077812b7d672458ca9\transformed\transition-1.5.0\res
+com.test.gravardados.app-lifecycle-viewmodel-2.6.2-15 C:\Users\Nicolas\.gradle\caches\8.9\transforms\2a74bc619fa9662b3c1f1eee8088daa7\transformed\lifecycle-viewmodel-2.6.2\res
+com.test.gravardados.app-activity-1.9.3-16 C:\Users\Nicolas\.gradle\caches\8.9\transforms\2ae98f8bbee2c12108a7dc07e23b1773\transformed\activity-1.9.3\res
+com.test.gravardados.app-recyclerview-1.3.2-17 C:\Users\Nicolas\.gradle\caches\8.9\transforms\31bd8413efd820fb63fc8708d6c7c924\transformed\recyclerview-1.3.2\res
+com.test.gravardados.app-constraintlayout-2.2.0-18 C:\Users\Nicolas\.gradle\caches\8.9\transforms\3724f7b513c578eda6a561317d7a0f8c\transformed\constraintlayout-2.2.0\res
+com.test.gravardados.app-tracing-1.2.0-19 C:\Users\Nicolas\.gradle\caches\8.9\transforms\37561d9faae896a7efd6991dd3bcd3e3\transformed\tracing-1.2.0\res
+com.test.gravardados.app-coordinatorlayout-1.1.0-20 C:\Users\Nicolas\.gradle\caches\8.9\transforms\37f2b02ee7636f2edc09aa8fdf1b4ec9\transformed\coordinatorlayout-1.1.0\res
+com.test.gravardados.app-firebase-common-21.0.0-21 C:\Users\Nicolas\.gradle\caches\8.9\transforms\3c340e1937537571797ee01d1542a980\transformed\firebase-common-21.0.0\res
+com.test.gravardados.app-emoji2-1.3.0-22 C:\Users\Nicolas\.gradle\caches\8.9\transforms\40cfd56bf5095f0bf92de2335031f05c\transformed\emoji2-1.3.0\res
+com.test.gravardados.app-credentials-1.2.0-rc01-23 C:\Users\Nicolas\.gradle\caches\8.9\transforms\46c39adf6a982b5d5d356283418aeb57\transformed\credentials-1.2.0-rc01\res
+com.test.gravardados.app-navigation-runtime-2.8.4-24 C:\Users\Nicolas\.gradle\caches\8.9\transforms\4a2a915e85f6c1fe4535b764a9913c06\transformed\navigation-runtime-2.8.4\res
+com.test.gravardados.app-activity-ktx-1.9.3-25 C:\Users\Nicolas\.gradle\caches\8.9\transforms\520f61f632af41942c84126a93192ca3\transformed\activity-ktx-1.9.3\res
+com.test.gravardados.app-navigation-common-2.8.4-26 C:\Users\Nicolas\.gradle\caches\8.9\transforms\524b696dec53061d653af3fb0801da9c\transformed\navigation-common-2.8.4\res
+com.test.gravardados.app-drawerlayout-1.1.1-27 C:\Users\Nicolas\.gradle\caches\8.9\transforms\53679cc62ddc9075d9e8bec892542a35\transformed\drawerlayout-1.1.1\res
+com.test.gravardados.app-fragment-1.6.2-28 C:\Users\Nicolas\.gradle\caches\8.9\transforms\5517e0dc00c68b30a7e34a63c962a08a\transformed\fragment-1.6.2\res
+com.test.gravardados.app-core-runtime-2.2.0-29 C:\Users\Nicolas\.gradle\caches\8.9\transforms\560afd14fcb917657ff76486bc97c206\transformed\core-runtime-2.2.0\res
+com.test.gravardados.app-facebook-share-17.0.2-30 C:\Users\Nicolas\.gradle\caches\8.9\transforms\6170e959a3979dd310dedfbf1c933bee\transformed\facebook-share-17.0.2\res
+com.test.gravardados.app-lifecycle-process-2.6.2-31 C:\Users\Nicolas\.gradle\caches\8.9\transforms\68884d422d512ff160731c6e49dd98ee\transformed\lifecycle-process-2.6.2\res
+com.test.gravardados.app-play-services-auth-21.2.0-32 C:\Users\Nicolas\.gradle\caches\8.9\transforms\68b29a7813c3b01f16b953398af888ad\transformed\play-services-auth-21.2.0\res
+com.test.gravardados.app-viewpager2-1.1.0-beta02-33 C:\Users\Nicolas\.gradle\caches\8.9\transforms\6a67b583bbf294af1114ece634c2bb71\transformed\viewpager2-1.1.0-beta02\res
+com.test.gravardados.app-savedstate-ktx-1.2.1-34 C:\Users\Nicolas\.gradle\caches\8.9\transforms\6f41e8e4e034ac974edc2426b0b77841\transformed\savedstate-ktx-1.2.1\res
+com.test.gravardados.app-navigation-fragment-ktx-2.8.4-35 C:\Users\Nicolas\.gradle\caches\8.9\transforms\79e4b51f9bf0239eaf25054e3f33d187\transformed\navigation-fragment-ktx-2.8.4\res
+com.test.gravardados.app-cardview-1.0.0-36 C:\Users\Nicolas\.gradle\caches\8.9\transforms\866540f41ba01654be23805b9d8c9c63\transformed\cardview-1.0.0\res
+com.test.gravardados.app-core-common-2.0.3-37 C:\Users\Nicolas\.gradle\caches\8.9\transforms\87a640b431e70ad4d0bc5e86519e305b\transformed\core-common-2.0.3\res
+com.test.gravardados.app-slidingpanelayout-1.2.0-38 C:\Users\Nicolas\.gradle\caches\8.9\transforms\887bab1559f42fdc63db8a4e96b7b3ec\transformed\slidingpanelayout-1.2.0\res
+com.test.gravardados.app-appcompat-1.7.0-39 C:\Users\Nicolas\.gradle\caches\8.9\transforms\8ee8942f5fdd64d447f08edaea5604ef\transformed\appcompat-1.7.0\res
+com.test.gravardados.app-play-services-measurement-api-22.1.2-40 C:\Users\Nicolas\.gradle\caches\8.9\transforms\96340e4c87f5a3bfc1387aea99ec8daf\transformed\play-services-measurement-api-22.1.2\res
+com.test.gravardados.app-media-1.0.0-41 C:\Users\Nicolas\.gradle\caches\8.9\transforms\9693c72c57bc2f8c75ada09a0e9fae83\transformed\media-1.0.0\res
+com.test.gravardados.app-lifecycle-runtime-ktx-2.6.2-42 C:\Users\Nicolas\.gradle\caches\8.9\transforms\9ebe021f28858447f1a0c517425c1c97\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.test.gravardados.app-core-1.15.0-43 C:\Users\Nicolas\.gradle\caches\8.9\transforms\9f4212b52c4a0ed672d6042e6936dd39\transformed\core-1.15.0\res
+com.test.gravardados.app-lifecycle-runtime-2.6.2-44 C:\Users\Nicolas\.gradle\caches\8.9\transforms\a4fc8e22e6e46aa90213c40e58da7e15\transformed\lifecycle-runtime-2.6.2\res
+com.test.gravardados.app-emoji2-views-helper-1.3.0-45 C:\Users\Nicolas\.gradle\caches\8.9\transforms\a5c5f79f4f13a3781b5011d2d0b86014\transformed\emoji2-views-helper-1.3.0\res
+com.test.gravardados.app-startup-runtime-1.1.1-46 C:\Users\Nicolas\.gradle\caches\8.9\transforms\b022bbb142b5671fe47d165d62ec01ff\transformed\startup-runtime-1.1.1\res
+com.test.gravardados.app-navigation-ui-2.8.4-47 C:\Users\Nicolas\.gradle\caches\8.9\transforms\b027033632df264e92335e47a68fd7eb\transformed\navigation-ui-2.8.4\res
+com.test.gravardados.app-facebook-messenger-17.0.2-48 C:\Users\Nicolas\.gradle\caches\8.9\transforms\b4934f0a09ef002a4aa61b9b67d0eb58\transformed\facebook-messenger-17.0.2\res
+com.test.gravardados.app-lifecycle-service-2.6.2-49 C:\Users\Nicolas\.gradle\caches\8.9\transforms\b5fbf559c2d3bba7e71e718bd40c8632\transformed\lifecycle-service-2.6.2\res
+com.test.gravardados.app-play-services-base-18.5.0-50 C:\Users\Nicolas\.gradle\caches\8.9\transforms\bb89bd97b421538ad7a0f82d6277881d\transformed\play-services-base-18.5.0\res
+com.test.gravardados.app-facebook-common-17.0.2-51 C:\Users\Nicolas\.gradle\caches\8.9\transforms\bdc7f6b79dc47bf94214e6188ceacf7d\transformed\facebook-common-17.0.2\res
+com.test.gravardados.app-appcompat-resources-1.7.0-52 C:\Users\Nicolas\.gradle\caches\8.9\transforms\c544a82cf9f5793b5fd10361e90619c6\transformed\appcompat-resources-1.7.0\res
+com.test.gravardados.app-savedstate-1.2.1-53 C:\Users\Nicolas\.gradle\caches\8.9\transforms\cff7282edc8652b9a618ab4dccc78961\transformed\savedstate-1.2.1\res
+com.test.gravardados.app-navigation-fragment-2.8.4-54 C:\Users\Nicolas\.gradle\caches\8.9\transforms\d917d508613403e354485eaf35b1f24b\transformed\navigation-fragment-2.8.4\res
+com.test.gravardados.app-customview-poolingcontainer-1.0.0-55 C:\Users\Nicolas\.gradle\caches\8.9\transforms\d99a923500b60b91520b36eba988706c\transformed\customview-poolingcontainer-1.0.0\res
+com.test.gravardados.app-fragment-ktx-1.6.2-56 C:\Users\Nicolas\.gradle\caches\8.9\transforms\db64d0bc6ebc5756840be14253d849ad\transformed\fragment-ktx-1.6.2\res
+com.test.gravardados.app-lifecycle-livedata-core-ktx-2.6.2-57 C:\Users\Nicolas\.gradle\caches\8.9\transforms\dc822ab8d54c008216b1e96a308e36d4\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.test.gravardados.app-ads-adservices-1.0.0-beta05-58 C:\Users\Nicolas\.gradle\caches\8.9\transforms\dcce3d299bbfd30ed481041b9e8a20c7\transformed\ads-adservices-1.0.0-beta05\res
+com.test.gravardados.app-browser-1.4.0-59 C:\Users\Nicolas\.gradle\caches\8.9\transforms\dd1998abfb3d8e7e72dab01da94a93ed\transformed\browser-1.4.0\res
+com.test.gravardados.app-navigation-common-ktx-2.8.4-60 C:\Users\Nicolas\.gradle\caches\8.9\transforms\e63728d4c29a5e761547cab2f10fcf7c\transformed\navigation-common-ktx-2.8.4\res
+com.test.gravardados.app-material-1.12.0-61 C:\Users\Nicolas\.gradle\caches\8.9\transforms\ef25141bad19df610a5ebce10bf94d2b\transformed\material-1.12.0\res
+com.test.gravardados.app-navigation-ui-ktx-2.8.4-62 C:\Users\Nicolas\.gradle\caches\8.9\transforms\ef2591daf0060382f53e43e76d5b8644\transformed\navigation-ui-ktx-2.8.4\res
+com.test.gravardados.app-ads-adservices-java-1.0.0-beta05-63 C:\Users\Nicolas\.gradle\caches\8.9\transforms\f0d18fa826ed35dd6cd6542b23813ac7\transformed\ads-adservices-java-1.0.0-beta05\res
+com.test.gravardados.app-annotation-experimental-1.4.1-64 C:\Users\Nicolas\.gradle\caches\8.9\transforms\f2af31a0ac94f3d8966f27c882d3b84b\transformed\annotation-experimental-1.4.1\res
+com.test.gravardados.app-lifecycle-viewmodel-ktx-2.6.2-65 C:\Users\Nicolas\.gradle\caches\8.9\transforms\f2d3240464fb52173b5d5e1e67751f6c\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.test.gravardados.app-profileinstaller-1.4.0-66 C:\Users\Nicolas\.gradle\caches\8.9\transforms\f9274e1a4bc228c75b5e672df5893dbd\transformed\profileinstaller-1.4.0\res
+com.test.gravardados.app-lifecycle-viewmodel-savedstate-2.6.2-67 C:\Users\Nicolas\.gradle\caches\8.9\transforms\fcd2ce49e54f0a6a75cf7cebf8023808\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.test.gravardados.app-navigation-runtime-ktx-2.8.4-68 C:\Users\Nicolas\.gradle\caches\8.9\transforms\fe544c6012790e43f1fc74762cc8a9af\transformed\navigation-runtime-ktx-2.8.4\res
+com.test.gravardados.app-lifecycle-livedata-core-2.6.2-69 C:\Users\Nicolas\.gradle\caches\8.9\transforms\fec1815dfccdf6f918fe9779d2368a44\transformed\lifecycle-livedata-core-2.6.2\res

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://projetodeestudo-909f6-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1029250521626</string>
+    <string name="google_api_key" translatable="false">AIzaSyAPedPtDDowo1o1qJAf82tPOLy3lnSAM90</string>
+    <string name="google_app_id" translatable="false">1:1029250521626:android:45925e46dc427406868fa3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAPedPtDDowo1o1qJAf82tPOLy3lnSAM90</string>
+    <string name="google_storage_bucket" translatable="false">projetodeestudo-909f6.firebasestorage.app</string>
+    <string name="project_id" translatable="false">projetodeestudo-909f6</string>
+</resources>
