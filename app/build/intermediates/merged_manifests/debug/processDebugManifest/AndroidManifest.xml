@@ -51,7 +51,7 @@
             android:name="com.test.gravardados.TelaPrincipal"
             android:exported="false" />
         <activity
-            android:name="com.test.gravardados.FormLogin"
+            android:name="com.test.gravardados.GestorAlimenticia"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

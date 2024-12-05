@@ -8,6 +8,7 @@ import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Spinner;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -65,13 +66,13 @@ public final class ActivityGestorAlimenticiaBinding implements ViewBinding {
   public final AutoCompleteTextView optionPeriod;
 
   @NonNull
-  public final RecyclerView recyclerView;
+  public final RecyclerView recyclerViewMenuItems;
+
+  @NonNull
+  public final Spinner spinnerMenuOptions;
 
   @NonNull
   public final TextView textView7;
-
-  @NonNull
-  public final TextView textViewData;
 
   @NonNull
   public final TextView titleTextView;
@@ -82,8 +83,8 @@ public final class ActivityGestorAlimenticiaBinding implements ViewBinding {
       @NonNull EditText editDate, @NonNull TextInputEditText editDescriptionFood,
       @NonNull TextInputLayout editDescriptionFood1, @NonNull EditText editTitleFood,
       @NonNull ImageView imgPerfil, @NonNull ConstraintLayout main, @NonNull Button menuresButton,
-      @NonNull AutoCompleteTextView optionPeriod, @NonNull RecyclerView recyclerView,
-      @NonNull TextView textView7, @NonNull TextView textViewData,
+      @NonNull AutoCompleteTextView optionPeriod, @NonNull RecyclerView recyclerViewMenuItems,
+      @NonNull Spinner spinnerMenuOptions, @NonNull TextView textView7,
       @NonNull TextView titleTextView) {
     this.rootView = rootView;
     this.btnAddGaleria = btnAddGaleria;
@@ -98,9 +99,9 @@ public final class ActivityGestorAlimenticiaBinding implements ViewBinding {
     this.main = main;
     this.menuresButton = menuresButton;
     this.optionPeriod = optionPeriod;
-    this.recyclerView = recyclerView;
+    this.recyclerViewMenuItems = recyclerViewMenuItems;
+    this.spinnerMenuOptions = spinnerMenuOptions;
     this.textView7 = textView7;
-    this.textViewData = textViewData;
     this.titleTextView = titleTextView;
   }
 
@@ -199,21 +200,21 @@ public final class ActivityGestorAlimenticiaBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.recyclerView;
-      RecyclerView recyclerView = ViewBindings.findChildViewById(rootView, id);
-      if (recyclerView == null) {
+      id = R.id.recycler_view_menu_items;
+      RecyclerView recyclerViewMenuItems = ViewBindings.findChildViewById(rootView, id);
+      if (recyclerViewMenuItems == null) {
+        break missingId;
+      }
+
+      id = R.id.spinner_menu_options;
+      Spinner spinnerMenuOptions = ViewBindings.findChildViewById(rootView, id);
+      if (spinnerMenuOptions == null) {
         break missingId;
       }
 
       id = R.id.textView7;
       TextView textView7 = ViewBindings.findChildViewById(rootView, id);
       if (textView7 == null) {
-        break missingId;
-      }
-
-      id = R.id.textViewData;
-      TextView textViewData = ViewBindings.findChildViewById(rootView, id);
-      if (textViewData == null) {
         break missingId;
       }
 
@@ -226,7 +227,7 @@ public final class ActivityGestorAlimenticiaBinding implements ViewBinding {
       return new ActivityGestorAlimenticiaBinding((ConstraintLayout) rootView, btnAddGaleria,
           btnEnviar, customlToolbar, descriptionTextView, editDate, editDescriptionFood,
           editDescriptionFood1, editTitleFood, imgPerfil, main, menuresButton, optionPeriod,
-          recyclerView, textView7, textViewData, titleTextView);
+          recyclerViewMenuItems, spinnerMenuOptions, textView7, titleTextView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

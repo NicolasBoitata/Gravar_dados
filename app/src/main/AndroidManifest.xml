@@ -22,7 +22,7 @@
             android:name=".TelaPrincipal"
             android:exported="false" />
         <activity
-            android:name=".FormLogin"
+            android:name=".GestorAlimenticia"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

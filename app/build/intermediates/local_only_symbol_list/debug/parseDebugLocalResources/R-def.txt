@@ -1,5 +1,6 @@
 R_DEF: Internal format may change without notice
 local
+array menu_options_array
 array snack_items
 color Blue
 color Green
@@ -93,7 +94,9 @@ id option_period
 id passwordFields
 id recyclerView
 id recycler_view_authors
+id recycler_view_menu_items
 id seila
+id spinner_menu_options
 id textEmail
 id textPassword
 id textView1
@@ -104,7 +107,7 @@ id textView5
 id textView6
 id textView7
 id textView8
-id textViewData
+id text_view_category
 id text_view_city_votes
 id text_view_name
 id titleLogin
@@ -124,6 +127,7 @@ layout base_option
 layout dialog_fragment_add_author
 layout fragment_authors
 layout item_food
+layout item_menu
 layout list_item
 layout merenda_timetable_toolbar
 layout merenda_toolbar

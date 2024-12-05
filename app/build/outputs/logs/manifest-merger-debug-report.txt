@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:2:1-35:12
 MERGED from [androidx.databinding:viewbinding:8.7.2] C:\Users\Nicolas\.gradle\caches\8.9\transforms\3d6dc709ebad550d614f6d913f7bc59f\transformed\viewbinding-8.7.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-common:2.8.4] C:\Users\Nicolas\.gradle\caches\8.9\transforms\524b696dec53061d653af3fb0801da9c\transformed\navigation-common-2.8.4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] C:\Users\Nicolas\.gradle\caches\8.9\transforms\e63728d4c29a5e761547cab2f10fcf7c\transformed\navigation-common-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
@@ -121,18 +121,18 @@ MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Nic
 MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Nicolas\.gradle\caches\8.9\transforms\5f0b83be02fef79688e0e35760bf643c\transformed\installreferrer-1.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Nicolas\.gradle\caches\8.9\transforms\87a640b431e70ad4d0bc5e86519e305b\transformed\core-common-2.0.3\AndroidManifest.xml:2:1-21:12
 	package
-		INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:5:5-33:19
-INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:5:5-33:19
+ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:5:5-33:19
+INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:5:5-33:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Nicolas\.gradle\caches\8.9\transforms\ef25141bad19df610a5ebce10bf94d2b\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Nicolas\.gradle\caches\8.9\transforms\ef25141bad19df610a5ebce10bf94d2b\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Nicolas\.gradle\caches\8.9\transforms\3724f7b513c578eda6a561317d7a0f8c\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
@@ -228,59 +228,59 @@ MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Nicolas\.
 MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Nicolas\.gradle\caches\8.9\transforms\87a640b431e70ad4d0bc5e86519e305b\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Nicolas\.gradle\caches\8.9\transforms\87a640b431e70ad4d0bc5e86519e305b\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
 	android:extractNativeLibs
-		INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.15.0] C:\Users\Nicolas\.gradle\caches\8.9\transforms\9f4212b52c4a0ed672d6042e6936dd39\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:11:9-54
 	tools:targetApi
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:13:9-49
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:13:9-49
 	android:dataExtractionRules
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:7:9-65
 activity#com.test.gravardados.Menu
-ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:18:9-20:40
+ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:20:13-37
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:19:13-33
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:19:13-33
 activity#com.test.gravardados.TelaPrincipal
-ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:21:9-23:40
+ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:22:13-42
-activity#com.test.gravardados.FormLogin
-ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:24:9-32:20
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:22:13-42
+activity#com.test.gravardados.GestorAlimenticia
+ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:24:9-32:20
 	android:exported
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:26:13-36
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:25:13-38
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:25:13-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:30:27-74
 uses-sdk
-INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml
-INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.7.2] C:\Users\Nicolas\.gradle\caches\8.9\transforms\3d6dc709ebad550d614f6d913f7bc59f\transformed\viewbinding-8.7.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.7.2] C:\Users\Nicolas\.gradle\caches\8.9\transforms\3d6dc709ebad550d614f6d913f7bc59f\transformed\viewbinding-8.7.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-common:2.8.4] C:\Users\Nicolas\.gradle\caches\8.9\transforms\524b696dec53061d653af3fb0801da9c\transformed\navigation-common-2.8.4\AndroidManifest.xml:20:5-44
@@ -516,9 +516,9 @@ MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Nicolas\.gradle
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Nicolas\.gradle\caches\8.9\transforms\1fe129eb11fce5ecbd4c2e1239c07149\transformed\firebase-auth-23.1.0\AndroidManifest.xml:23:9-148
 	android:targetSdkVersion
-		INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml
 queries
 ADDED from [com.facebook.android:facebook-common:17.0.2] C:\Users\Nicolas\.gradle\caches\8.9\transforms\bdc7f6b79dc47bf94214e6188ceacf7d\transformed\facebook-common-17.0.2\AndroidManifest.xml:17:5-19:15
 package#com.facebook.katana

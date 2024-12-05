@@ -52,59 +52,59 @@
 28-->[androidx.core:core:1.15.0] C:\Users\Nicolas\.gradle\caches\8.9\transforms\9f4212b52c4a0ed672d6042e6936dd39\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
 29
 30    <application
-30-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:5:5-33:19
+30-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:5:5-33:19
 31        android:allowBackup="true"
-31-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:6:9-35
+31-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:6:9-35
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 32-->[androidx.core:core:1.15.0] C:\Users\Nicolas\.gradle\caches\8.9\transforms\9f4212b52c4a0ed672d6042e6936dd39\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
 33        android:dataExtractionRules="@xml/data_extraction_rules"
-33-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:7:9-65
+33-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:7:9-65
 34        android:debuggable="true"
 35        android:extractNativeLibs="false"
 36        android:fullBackupContent="@xml/backup_rules"
-36-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:8:9-54
+36-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:8:9-54
 37        android:icon="@mipmap/ic_launcher"
-37-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:9:9-43
+37-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:9:9-43
 38        android:label="@string/app_name"
-38-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:10:9-41
+38-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:10:9-41
 39        android:roundIcon="@mipmap/ic_launcher_round"
-39-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:11:9-54
+39-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:11:9-54
 40        android:supportsRtl="true"
-40-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:12:9-35
+40-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:12:9-35
 41        android:testOnly="true"
 42        android:theme="@style/Theme.GravarDados" >
-42-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:13:9-49
+42-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:13:9-49
 43
 44        <!-- <meta-data -->
 45        <!-- android:name="com.google.android.gms.version" -->
 46        <!-- android:value="18.0.1" /> -->
 47        <activity
-47-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:18:9-20:40
+47-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:18:9-20:40
 48            android:name="com.test.gravardados.Menu"
-48-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:19:13-33
+48-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:19:13-33
 49            android:exported="false" />
-49-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:20:13-37
+49-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:20:13-37
 50        <activity
-50-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:21:9-23:40
+50-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:21:9-23:40
 51            android:name="com.test.gravardados.TelaPrincipal"
-51-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:22:13-42
+51-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:22:13-42
 52            android:exported="false" />
-52-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:23:13-37
+52-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:23:13-37
 53        <activity
-53-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:24:9-32:20
-54            android:name="com.test.gravardados.FormLogin"
-54-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:25:13-38
+53-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:24:9-32:20
+54            android:name="com.test.gravardados.GestorAlimenticia"
+54-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:25:13-46
 55            android:exported="true" >
-55-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:26:13-36
+55-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:26:13-36
 56            <intent-filter>
-56-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:27:13-31:29
+56-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:27:13-31:29
 57                <action android:name="android.intent.action.MAIN" />
-57-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:28:17-69
-57-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:28:25-66
+57-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:28:17-69
+57-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:28:25-66
 58
 59                <category android:name="android.intent.category.LAUNCHER" />
-59-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:30:17-77
-59-->C:\Projeto\Android\Gravar Dados\app\src\main\AndroidManifest.xml:30:27-74
+59-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:30:17-77
+59-->C:\Projeto\GIT\Gravar Dados\app\src\main\AndroidManifest.xml:30:27-74
 60            </intent-filter>
 61        </activity>
 62        <activity

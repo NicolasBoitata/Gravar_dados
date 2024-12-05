@@ -85,6 +85,7 @@ animator nav_default_enter_anim
 animator nav_default_exit_anim
 animator nav_default_pop_enter_anim
 animator nav_default_pop_exit_anim
+array menu_options_array
 array snack_items
 attr SharedValue
 attr SharedValueId
@@ -3781,6 +3782,7 @@ id ratio
 id rectangles
 id recyclerView
 id recycler_view_authors
+id recycler_view_menu_items
 id report_drawn
 id reverseSawtooth
 id right
@@ -3834,6 +3836,7 @@ id snapMargins
 id south
 id spacer
 id special_effects_controller_view_tag
+id spinner_menu_options
 id spline
 id split_action_bar
 id spread
@@ -3887,10 +3890,10 @@ id textView5
 id textView6
 id textView7
 id textView8
-id textViewData
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
+id text_view_category
 id text_view_city_votes
 id text_view_name
 id textinput_counter
@@ -4102,6 +4105,7 @@ layout fragment_authors
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout item_food
+layout item_menu
 layout list_item
 layout m3_alert_dialog
 layout m3_alert_dialog_actions

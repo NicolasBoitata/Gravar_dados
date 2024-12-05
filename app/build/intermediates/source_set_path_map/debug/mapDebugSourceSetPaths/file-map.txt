@@ -1,11 +1,11 @@
-com.test.gravardados.app-pngs-0 C:\Projeto\Android\Gravar Dados\app\build\generated\res\pngs\debug
-com.test.gravardados.app-res-1 C:\Projeto\Android\Gravar Dados\app\build\generated\res\processDebugGoogleServices
-com.test.gravardados.app-resValues-2 C:\Projeto\Android\Gravar Dados\app\build\generated\res\resValues\debug
-com.test.gravardados.app-packageDebugResources-3 C:\Projeto\Android\Gravar Dados\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.test.gravardados.app-packageDebugResources-4 C:\Projeto\Android\Gravar Dados\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.test.gravardados.app-debug-5 C:\Projeto\Android\Gravar Dados\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.test.gravardados.app-debug-6 C:\Projeto\Android\Gravar Dados\app\src\debug\res
-com.test.gravardados.app-main-7 C:\Projeto\Android\Gravar Dados\app\src\main\res
+com.test.gravardados.app-pngs-0 C:\Projeto\GIT\Gravar Dados\app\build\generated\res\pngs\debug
+com.test.gravardados.app-res-1 C:\Projeto\GIT\Gravar Dados\app\build\generated\res\processDebugGoogleServices
+com.test.gravardados.app-resValues-2 C:\Projeto\GIT\Gravar Dados\app\build\generated\res\resValues\debug
+com.test.gravardados.app-packageDebugResources-3 C:\Projeto\GIT\Gravar Dados\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.test.gravardados.app-packageDebugResources-4 C:\Projeto\GIT\Gravar Dados\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.test.gravardados.app-debug-5 C:\Projeto\GIT\Gravar Dados\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.test.gravardados.app-debug-6 C:\Projeto\GIT\Gravar Dados\app\src\debug\res
+com.test.gravardados.app-main-7 C:\Projeto\GIT\Gravar Dados\app\src\main\res
 com.test.gravardados.app-facebook-login-17.0.2-8 C:\Users\Nicolas\.gradle\caches\8.9\transforms\028c0c8f00550f275213582d7eb893f3\transformed\facebook-login-17.0.2\res
 com.test.gravardados.app-credentials-play-services-auth-1.2.0-rc01-9 C:\Users\Nicolas\.gradle\caches\8.9\transforms\03a5dd22c438425778c0634c79c301d2\transformed\credentials-play-services-auth-1.2.0-rc01\res
 com.test.gravardados.app-lifecycle-livedata-2.6.2-10 C:\Users\Nicolas\.gradle\caches\8.9\transforms\09a307d9ff76e9830f23bd3e62e5132e\transformed\lifecycle-livedata-2.6.2\res
